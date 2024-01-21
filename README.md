@@ -1,2 +1,2 @@
 # Simple-Calculater
-This is calculater using HTML &amp; CSS
+#This is calculater using HTML &amp; CSS
